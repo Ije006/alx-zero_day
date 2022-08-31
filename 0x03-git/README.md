@@ -1,2 +1,1 @@
-My second readme for this pro
-ject
+My second readme for this project updated
